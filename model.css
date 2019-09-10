@@ -4,7 +4,7 @@
 }
 .bar{
 	grid-area: main-bar;
-	background-color: lightblue;
+	background-color: blue;
 }
 .menu{
 	grid-area: menu;
